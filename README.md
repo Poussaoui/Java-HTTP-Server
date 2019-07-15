@@ -1,2 +1,4 @@
-# Java HTTP req,res
+# Java HTTP server
+
+simple HTTP server in Java
  
